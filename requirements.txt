@@ -3,4 +3,5 @@ pandas
 cloudpickle
 streamlit
 scikit-learn
-
+pyttsx3
+speech_recognition
