@@ -1,8 +1,6 @@
-numpy
-pandas
-cloudpickle
 streamlit
-scikit-learn
-pyttsx3
-SpeechRecognition
-pyaudio
+openai
+deepgram-sdk
+python-dotenv
+sounddevice
+numpy
