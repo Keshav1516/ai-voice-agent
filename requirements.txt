@@ -4,6 +4,6 @@ deepgram-sdk
 python-dotenv
 sounddevice
 numpy
-speechrecognition
+SpeechRecognition
 pyttsx3
 pyaudio
